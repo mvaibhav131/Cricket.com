@@ -24,7 +24,7 @@ see match schedule
 
 ######  Page
 
-![Screenshot (7)](https://user-images.githubusercontent.com/98808183/183116723-4f11a7e8-5a1d-40a3-bf66-b4642f1231dd.png)
+![Screenshot (7)](https://user-images.githubusercontent.com/98808183/183117215-448ee92f-cae8-4bf0-a272-c8f07a7256be.png)
 
-![Screenshot (8)](https://user-images.githubusercontent.com/98808183/183116446-df07a0a4-3d49-4a18-9600-5f86f0ca2c89.png)
+![Screenshot (8)](https://user-images.githubusercontent.com/98808183/183117132-e9475e4c-3a68-40a1-a8b6-1a1aa88449bd.png)
 
